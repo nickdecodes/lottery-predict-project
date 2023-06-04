@@ -1,8 +1,15 @@
+#!/usr/bin/env python
 # -*- coding: utf-8 -*-
-# @File  : random_show.py
-# @Author: AaronJny
-# @Date  : 2019/10/29
-# @Desc  : 随机选择情况下的收益情况
+
+"""
+@Author  : nickdecodes
+@Email   : nickdecodes@163.com
+@Usage   : 随机选择情况下的收益情况
+@FileName: random_show.py
+@DateTime: 2023/6/4 15:28
+@SoftWare:
+"""
+
 import random
 import numpy as np
 from dataset import LottoDataSet

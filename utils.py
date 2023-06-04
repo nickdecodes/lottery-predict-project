@@ -1,8 +1,15 @@
+#!/usr/bin/env python
 # -*- coding: utf-8 -*-
-# @File  : utils.py
-# @Author: AaronJny
-# @Date  : 2019/10/29
-# @Desc  : 对数据进行处理和操作的一些工具方法
+
+"""
+@Author  : nickdecodes
+@Email   : nickdecodes@163.com
+@Usage   : 对数据进行处理和操作的一些工具方法
+@FileName: utils.py
+@DateTime: 2023/6/4 15:28
+@SoftWare:
+"""
+
 import matplotlib.pyplot as plt
 import numpy as np
 import settings

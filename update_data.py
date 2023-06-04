@@ -1,8 +1,15 @@
+#!/usr/bin/env python
 # -*- coding: utf-8 -*-
-# @File  : update_data.py
-# @Author: AaronJny
-# @Date  : 2019/10/29
-# @Desc  :
+
+"""
+@Author  : nickdecodes
+@Email   : nickdecodes@163.com
+@Usage   :
+@FileName: update_data.py
+@DateTime: 2023/6/4 15:28
+@SoftWare:
+"""
+
 import requests
 import settings
 

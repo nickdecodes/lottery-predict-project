@@ -1,8 +1,15 @@
+#!/usr/bin/env python
 # -*- coding: utf-8 -*-
-# @File  : dataset.py
-# @Author: AaronJny
-# @Date  : 2019/10/29
-# @Desc  : 对数据集进行相关处理
+
+"""
+@Author  : nickdecodes
+@Email   : nickdecodes@163.com
+@Usage   : 对数据集进行相关处理
+@FileName: dataset.py
+@DateTime: 2023/6/4 15:28
+@SoftWare:
+"""
+
 import time
 import numpy as np
 import settings

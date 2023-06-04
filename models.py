@@ -1,12 +1,14 @@
+#!/usr/bin/env python
 # -*- coding: utf-8 -*-
-# @File  : models.py
-# @Author: AaronJny
-# @Date  : 2019/10/29
-# @Desc  : 建立深度学习模型
-import keras
-from keras import layers
-from keras import models
-import settings
+
+"""
+@Author  : nickdecodes
+@Email   : nickdecodes@163.com
+@Usage   : 建立深度学习模型
+@FileName: models.py
+@DateTime: 2023/6/4 15:28
+@SoftWare:
+"""
 
 # 这是一个多输入模型，inputs用来保存所有的输入层
 inputs = []

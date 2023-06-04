@@ -1,8 +1,14 @@
+#!/usr/bin/env python
 # -*- coding: utf-8 -*-
-# @File  : settings.py
-# @Author: AaronJny
-# @Date  : 2019/10/29
-# @Desc  :
+
+"""
+@Author  : nickdecodes
+@Email   : nickdecodes@163.com
+@Usage   :
+@FileName: settings.py
+@DateTime: 2023/6/4 15:28
+@SoftWare:
+"""
 
 # 训练epochs数量
 EPOCHS = 60

@@ -1,8 +1,15 @@
+#!/usr/bin/env python
 # -*- coding: utf-8 -*-
-# @File    : train_with_whole_dataset.py
-# @Author  : AaronJny
-# @Date    : 2019/11/26
-# @Desc    : 使用全部数据集进行训练
+
+"""
+@Author  : nickdecodes
+@Email   : nickdecodes@163.com
+@Usage   : 使用全部数据集进行训练
+@FileName: train_with_whole_dataset.py
+@DateTime: 2023/6/4 15:28
+@SoftWare:
+"""
+
 import os
 from models import model
 from dataset import LottoDataSet

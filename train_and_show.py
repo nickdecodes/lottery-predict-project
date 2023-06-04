@@ -1,8 +1,15 @@
+#!/usr/bin/env python
 # -*- coding: utf-8 -*-
-# @File  : train.py
-# @Author: AaronJny
-# @Date  : 2019/10/29
-# @Desc  :
+
+"""
+@Author  : nickdecodes
+@Email   : nickdecodes@163.com
+@Usage   :
+@FileName: train_and_show.py
+@DateTime: 2023/6/4 15:28
+@SoftWare:
+"""
+
 import os
 import numpy as np
 from models import model

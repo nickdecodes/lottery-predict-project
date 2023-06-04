@@ -1,8 +1,15 @@
+#!/usr/bin/env python
 # -*- coding: utf-8 -*-
-# @File    : predict.py
-# @Author  : AaronJny
-# @Date    : 2019/11/26
-# @Desc    : 指定一个训练好的模型参数，让模型随机选出下期彩票号码
+
+"""
+@Author  : nickdecodes
+@Email   : nickdecodes@163.com
+@Usage   : 指定一个训练好的模型参数，让模型随机选出下期彩票号码
+@FileName: predict.py
+@DateTime: 2023/6/4 15:28
+@SoftWare:
+"""
+
 from dataset import LottoDataSet
 from models import model
 import settings
